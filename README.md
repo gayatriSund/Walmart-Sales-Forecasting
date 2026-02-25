@@ -1,4 +1,5 @@
 Walmart Sales Forecasting & SQL Analysis
+
 📌 Project Overview
 
 This project analyzes and forecasts Walmart weekly sales using time series models and SQL-based data analysis. The objective was to extract business insights and predict future sales trends using statistical and deep learning techniques.
